@@ -17,3 +17,5 @@ Pendding feature ( I decide to stop on this version )
 
 - Separate textView to be 2 object for support multiple line, so it can support history of number that you calculated.
 - Change location of screenshot to be Gallery.
+- Change apk name
+- Change icon of application when displan on device
