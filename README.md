@@ -1,5 +1,7 @@
 # Custom-Calculator
 
+![Alt text](https://github.com/korakod2012/Custom-Calculator/blob/master/Calculator%20V2/Calculator_ScreenShot.jpg?raw=true "Title")
+
 This is version 2 of Caculator App that i created.
 
 Update feature :
