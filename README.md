@@ -1,9 +1,9 @@
 # Custom-Calculator
 
-![Alt text](https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/01.jpg | width=20 )
-![Alt text](https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/02.jpg?raw=true )
-![Alt text](https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/03.jpg?raw=true )
-![Alt text](https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/04.jpg?raw=true )
+<img src="https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/01.jpg" width="256" >
+<img src="https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/02.jpg" width="256" >
+<img src="https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/03.jpg" width="256" >
+<img src="https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/04.jpg" width="256" >
 
 This is version 2 of Caculator App that i created.
 
