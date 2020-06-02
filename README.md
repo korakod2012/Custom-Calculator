@@ -2,8 +2,8 @@
 
 <img align="left" src="https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/01.jpg" width="200" >
 <img align="left" src="https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/02.jpg" width="200" >
-<img align="left" src="https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/03.jpg" width="200" >
-<img align="left" src="https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/04.jpg" width="200" >
+<img align="right" src="https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/03.jpg" width="200" >
+<img align="right" src="https://github.com/korakod2012/Custom-Calculator/blob/master/screenshot/04.jpg" width="200" >
 
 
 
